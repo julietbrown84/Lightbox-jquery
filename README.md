@@ -1,1 +1,3 @@
-# Lightbox-jquery
+# Lightbo jquery
+
+
