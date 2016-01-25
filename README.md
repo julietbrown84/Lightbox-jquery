@@ -1,3 +1,3 @@
-# Lightbo jquery
+# Lightbox jquery
 
 
